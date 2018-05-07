@@ -200,7 +200,7 @@ public class SqoopJobInit {
     }
 
     public static void main(String[] args) throws Exception {
-        updateLastValue(1, "2016-05-17 10:04:22.000", "schema_E6PlateFormMain_Base_table_E6Driver");
+        updateLastValue(1, "2016-05-17 10:04:22.000", "schema_main_Base_table_drive");
         // init();
     }
 }
